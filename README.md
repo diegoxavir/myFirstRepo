@@ -1,3 +1,4 @@
 # myFirstRepo
-My first repository. 
+
+My first repository...
 What the dog doing
